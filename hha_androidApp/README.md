@@ -8,4 +8,7 @@
   <img width="300" height="300" src=".D:\2021_2학기_캡스톤\png/dog.png"></img>
 
   <img width="1920" height="1080" src=".D:\2021_2학기_캡스톤\png/20273017황현아_2주차.png"></img>
+  
+![dog](https://user-images.githubusercontent.com/80746336/132335311-69ea77c0-441c-4d3b-a9d4-cf80943408cc.png)
+![20273017황현아_2주차](https://user-images.githubusercontent.com/80746336/132335320-d24e9cb2-dffb-42ef-bbd3-c9f4796dd649.PNG)
 
