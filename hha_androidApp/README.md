@@ -4,8 +4,8 @@
  - Github사용방법
  - 안드로이드앱프로그래밍
  - 앱기획
- - 
-  <img width="300" height="300" sre=".D:\2021_2학기_캡스톤/png/dog.png"></img>
 
-  <img width="1920" height="1080" sre=".D:\2021_2학기_캡스톤/png/20273017황현아_2주차.png"></img>
+  <img width="300" height="300" src=".D:\2021_2학기_캡스톤\png/dog.png"></img>
+
+  <img width="1920" height="1080" src=".D:\2021_2학기_캡스톤\png/20273017황현아_2주차.png"></img>
 
