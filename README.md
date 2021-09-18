@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-## Tutorial Repository
+Tutorial Repository
