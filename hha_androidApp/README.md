@@ -6,7 +6,7 @@
  - 앱기획
 
 <img width="300" height="400" src="./png/dog.png"></img>
-<img width="" height="" src="hha0323/20273017_hha_androidApp1/png/20273017황현아_2주차.png"></img>
+<img width="" height="" src="./20273017_hha_androidApp/20273017황현아_2주차.png"></img>
 
 ![20273017황현아_2주차](https://user-images.githubusercontent.com/80746336/132335320-d24e9cb2-dffb-42ef-bbd3-c9f4796dd649.PNG)
 
