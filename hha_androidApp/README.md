@@ -5,7 +5,6 @@
  - 안드로이드앱프로그래밍
  - 앱기획
 
-<img width="" height="" src="/.png/dog.png"></img>
 
 ![dog](https://user-images.githubusercontent.com/80746336/133891981-5943db0c-3307-49f8-80e2-9121a0452264.png)
 
