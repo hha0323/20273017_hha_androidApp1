@@ -27,3 +27,12 @@
 ![20273017황현아_5주차(1)](https://user-images.githubusercontent.com/80746336/135077882-868bd685-57a9-4a1f-aad6-838cf155a7b4.PNG)
 
 ![20273017황현아_5주차(2)](https://user-images.githubusercontent.com/80746336/135077908-902755eb-a7c3-4308-b5ac-afc18e0a3ef7.PNG)
+
+
+## 6주차 수업
+
+![20273017황현아_6주차(1)](https://user-images.githubusercontent.com/80746336/136657604-e461c8d5-7a35-4a34-826c-a29b5531ae4d.PNG)
+
+![20273017황현아_6주차(2)](https://user-images.githubusercontent.com/80746336/136657610-c16c7dc9-a410-4512-9a53-0aac3b04e880.PNG)
+
+
