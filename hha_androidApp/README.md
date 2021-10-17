@@ -36,3 +36,7 @@
 ![20273017황현아_6주차(2)](https://user-images.githubusercontent.com/80746336/136657610-c16c7dc9-a410-4512-9a53-0aac3b04e880.PNG)
 
 
+## 7주차 수업
+
+![20273017황현아_7주차](https://user-images.githubusercontent.com/80746336/137617971-1dbffeaf-87d9-4fb7-b3c2-fb7960778a69.PNG)
+
