@@ -60,3 +60,11 @@
 
 ![20273017황현아_9주차(4-2)](https://user-images.githubusercontent.com/80746336/138887505-fba19536-3b7d-489a-9dc2-5da5b0a87a1e.PNG)
 
+## 10주차 수업
+
+![20273017황현아_10주차(1)](https://user-images.githubusercontent.com/80746336/140646586-ca559359-f9ef-426a-b879-b83c9089a912.PNG)
+
+![20273017황현아_10주차(2)](https://user-images.githubusercontent.com/80746336/140646592-d76ce68a-c0a2-4fa8-89e8-737d55df393d.PNG)
+
+![20273017황현아_10주차(3)](https://user-images.githubusercontent.com/80746336/140646601-787019d6-435f-4210-b3b8-5fdf6cbcf3fe.PNG)
+
