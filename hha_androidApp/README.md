@@ -74,3 +74,23 @@
 
 ![20273017황현아_11주차(2)](https://user-images.githubusercontent.com/80746336/141287896-6ff6a86c-637d-4d4a-9a65-872a2afd4445.PNG)
 
+## 12주차 수업
+
+![20273017황현아_12주차(1)](https://user-images.githubusercontent.com/80746336/142407663-9e74ecbc-113b-4815-9f7e-22badcd495be.PNG)
+
+![20273017황현아_12주차(2)](https://user-images.githubusercontent.com/80746336/142407683-dfbf092e-ad6c-4573-a369-3ba34d9c0f85.PNG)
+
+![20273017황현아_12주차(3-1)](https://user-images.githubusercontent.com/80746336/142407707-5ff30a20-db58-44bf-b3cc-a33346375a70.PNG)
+
+![20273017황현아_12주차(3-2)](https://user-images.githubusercontent.com/80746336/142407736-550c7bed-a00f-4632-b421-c5b0b27968d9.PNG)
+
+![20273017황현아_12주차(4)](https://user-images.githubusercontent.com/80746336/142407777-108d0e31-bc87-4a42-bebe-492c79a2172e.PNG)
+
+![20273017황현아_12주차(5)](https://user-images.githubusercontent.com/80746336/142407797-99badcc3-c704-4ad6-a47f-2aea560c4e7d.PNG)
+
+![20273017황현아_12주차(6)](https://user-images.githubusercontent.com/80746336/142407814-40358d97-4d85-4d9c-ae38-483a5213d311.PNG)
+
+![20273017황현아_12주차(7)](https://user-images.githubusercontent.com/80746336/142407839-5f639691-ae2e-4829-b9f5-0620ed98ec33.PNG)
+
+
+
